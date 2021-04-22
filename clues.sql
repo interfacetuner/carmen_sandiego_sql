@@ -68,4 +68,3 @@ SELECT * FROM city WHERE id='211';
 SELECT * FROM city WHERE population=91084;
 
 -- Santa Monica
--- Brasil
